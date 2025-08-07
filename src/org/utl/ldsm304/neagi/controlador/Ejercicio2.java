@@ -10,4 +10,9 @@ package org.utl.ldsm304.neagi.controlador;
  */
 public class Ejercicio2 {
     
+    private String[][] matrizCadenas = {
+        {"Uva", "Mango", "Pera"},
+        {"Sandía", "Durazno", "Cereza"},
+        {"Plátano", "Naranja", "Guayaba"}
+    };
 }
