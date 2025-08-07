@@ -14,7 +14,16 @@ public class Principal {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        MostrarMenu();
     }
     
-}
+    public static void MostrarMenu(){
+        System.out.println("------MENU------");
+        System.out.println("1-Análisis de Precios en Matriz");
+        System.out.println("2-Análisis de Cadenas en Matriz");
+        
+        
+        }
+    }
+    
+
